@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=header" />
 
-<p align="right">
+<p align="left-centre">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&pause=1000&center=true&vCenter=true&width=500&color=F4C2C2&lines=Hi%2C+I'm+Daryl!" alt="Typing SVG" />
 </p>
 
