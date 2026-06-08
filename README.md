@@ -83,11 +83,11 @@ I enjoy turning real problems into simple software solutions.
 ## ⭑.ᐟ Contact
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/daryljulia">
 <img src="https://img.shields.io/badge/GitHub-F4C2C2?style=for-the-badge&logo=github" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="zionnhillj@gmail.com">
 <img src="https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail" />
 </a>
 </p>
