@@ -62,19 +62,6 @@ Computer Science Student • Aspiring Software Engineer
 
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
-## ⭑.ᐟ Fun Stuff
-<p align="center">
-  <a href="https://github.com/daryljulia">
-    <img src="https://img.shields.io/badge/GitHub-projects-F4C2C2?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://open.spotify.com/user/t17vkktpy62eylxssmcqn1okl">
-    <img src="https://img.shields.io/badge/Spotify-music-F4C2C2?style=for-the-badge&logo=spotify" />
-  </a>
-</p>
-
-── ⋆⋅☆⋅⋆ ──
-
 ## ⭑.ᐟ What I'm Interested In
 
 <div style="display:grid; gap:10px;">
@@ -88,7 +75,18 @@ Computer Science Student • Aspiring Software Engineer
 
 </div>
 
-˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+── ⋆⋅☆⋅⋆ ──
+
+
+## ⭑.ᐟ Fun Stuff
+
+⟢ currently watching
+
+<p align="center">
+  <a href="https://anilist.co/user/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/AniList-View%20My%20Anime-F4C2C2?style=for-the-badge&logo=anilist" />
+  </a>
+</p>
 
 ## ⭑.ᐟ Contact
 
@@ -102,7 +100,7 @@ Computer Science Student • Aspiring Software Engineer
   </a>
 </p>
 
-── ⋆⋅☆⋅⋆ ──
+˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
 <!--  FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=footer" />
