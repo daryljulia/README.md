@@ -38,6 +38,8 @@ My interests 𓍼
 
 </details>
 
+
+
 <p align="center">
   <a href="https://linkedin.com/in/daryldadang">
     <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin" />
@@ -45,10 +47,6 @@ My interests 𓍼
   <a href="dadang.daryl.j@gmail.com">
     <img src="https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f2d7b6c-7f38-4e7b-bb57-7c2d7e5c9c7b.gif" width="600"/>
 </p>
 
 <p align="center">
