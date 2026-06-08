@@ -67,8 +67,6 @@ I enjoy turning real problems into simple software solutions.
 
 ── ⋆⋅☆⋅⋆ ──
 
-## ⭑.ᐟ GitHub Stats
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
