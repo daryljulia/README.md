@@ -77,17 +77,6 @@ Computer Science Student • Aspiring Software Engineer
 
 ── ⋆⋅☆⋅⋆ ──
 
-
-## ⭑.ᐟ Fun Stuff
-
-⟢ currently watching
-
-<p align="center">
-  <a href="https://anilist.co/user/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/AniList-View%20My%20Anime-F4C2C2?style=for-the-badge&logo=anilist" />
-  </a>
-</p>
-
 ## ⭑.ᐟ Contact
 
 <p align="center">
