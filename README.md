@@ -63,6 +63,15 @@ Computer Science Student • Aspiring Software Engineer
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
 ## ⭑.ᐟ Fun Stuff
+<p align="center">
+  <a href="https://github.com/daryljulia">
+    <img src="https://img.shields.io/badge/GitHub-projects-F4C2C2?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://open.spotify.com/user/t17vkktpy62eylxssmcqn1okl">
+    <img src="https://img.shields.io/badge/Spotify-music-F4C2C2?style=for-the-badge&logo=spotify" />
+  </a>
+</p>
 
 ── ⋆⋅☆⋅⋆ ──
 
