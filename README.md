@@ -29,14 +29,12 @@ Computer Science Student • Aspiring Software Engineer
 
 ## ⭑.ᐟ Currently Learning
 
-<div style="display:grid; gap:10px;">
+⟢ [AWS (cloud computing)](https://aws.amazon.com/)  
+⟢ [After Effects (VFX & motion design)](https://www.adobe.com/products/aftereffects.html)  
+⟢ [Python](https://www.python.org/)  
+⟢ [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+⟢ Creative writing + [AO3](https://archiveofourown.org/)  
 
-⟢ AWS (cloud computing)
-⟢ After Effects (VFX & motion design)
-⟢ Creative writing
-⟢ Coding & software development
-
-</div>
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
 ## ⭑.ᐟ Currently Listening To
