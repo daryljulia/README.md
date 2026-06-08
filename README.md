@@ -70,15 +70,15 @@ I enjoy turning real problems into simple software solutions.
 ## ⭑.ᐟ Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daryljulia&show_icons=true&theme=rose_pine" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daryljulia&theme=rose_pine" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=rose-pine" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daryljulia&theme=rose-pine" />
 </p>
 ── ⋆⋅☆⋅⋆ ──
 
