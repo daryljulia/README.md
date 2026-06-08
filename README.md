@@ -18,7 +18,7 @@ Computer Science Student • Aspiring Software Engineer
 
 ---
 
-## 👤 About Me
+## 𑣲 About Me
 
 <div style="border:1px solid #F4C2C2; padding:15px; border-radius:10px;">
 
@@ -30,18 +30,17 @@ I enjoy turning real problems into simple software solutions.
 
 </div>
 
----
+── ⋆⋅☆⋅⋆ ──
+## ⭑.ᐟ Currently Learning
 
-## 📚 Currently Learning
+- AWS (cloud computing)
+- After Effects (VFX & motion design)
+- Creative writing
+- Coding & software development
 
-- ☁️ AWS (cloud computing)
-- 🎬 After Effects (VFX & motion design)
-- ✍️ Creative writing
-- 💻 Coding & software development
+── ⋆⋅☆⋅⋆ ──
 
----
-
-## 🛠️ Tech Stack
+## ⭑.ᐟ Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-F4C2C2?style=for-the-badge&logo=python" />
@@ -51,9 +50,9 @@ I enjoy turning real problems into simple software solutions.
 <img src="https://img.shields.io/badge/AWS-F4C2C2?style=for-the-badge&logo=amazonaws" />
 </p>
 
----
+── ⋆⋅☆⋅⋆ ──
 
-## 💡 What I'm Interested In
+## ⭑.ᐟ What I'm Interested In
 
 <div style="display:grid; gap:10px;">
 
@@ -66,9 +65,9 @@ I enjoy turning real problems into simple software solutions.
 
 </div>
 
----
+── ⋆⋅☆⋅⋆ ──
 
-## 📊 GitHub Stats
+## ⭑.ᐟ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
@@ -78,9 +77,10 @@ I enjoy turning real problems into simple software solutions.
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine" />
 </p>
 
----
+── ⋆⋅☆⋅⋆ ──
 
-## 📫 Contact
+
+## ⭑.ᐟ Contact
 
 <p align="center">
 <a href="https://github.com/YOUR_USERNAME">
@@ -92,7 +92,7 @@ I enjoy turning real problems into simple software solutions.
 </a>
 </p>
 
----
+── ⋆⋅☆⋅⋆ ──
 
 <!-- 🌊 FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=footer" />
