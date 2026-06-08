@@ -4,6 +4,65 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&pause=1000&center=true&vCenter=true&width=500&color=F4C2C2&lines=Hi%2C+I'm+Daryl!" alt="Typing SVG" />
 </p>
 
+<details>
+  <summary>📌 About me</summary>
+
+I’m a Computer Science student interested in software development, cloud systems, and automation.  
+
+I also enjoy video editing and creative writing.
+
+</details>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently-Learning%20AWS-F4C2C2?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR">
+    <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:you@email.com">
+    <img src="https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f2d7b6c-7f38-4e7b-bb57-7c2d7e5c9c7b.gif" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F4C2C2" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-F4C2C2?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-F4C2C2?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/AWS-F4C2C2?style=for-the-badge&logo=amazonaws" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR">
+    <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:you@email.com">
+    <img src="https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+
 
 I'm a Computer Science student focused on software development, backend systems, and cloud technologies.
 
