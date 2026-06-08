@@ -69,7 +69,13 @@ I enjoy turning real problems into simple software solutions.
 
 ## ⭑.ᐟ Activity
 
-<img src="https://raw.githubusercontent.com/daryljulia/daryljulia/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daryljulia/README.md/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daryljulia/README.md/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ── ⋆⋅☆⋅⋆ ──
 
 
