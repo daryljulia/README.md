@@ -52,7 +52,7 @@ Computer Science Student • Aspiring Software Engineer
 ⟢ now playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/t17vkktpy62eylxssmcqn1okl?si=0c7ffe301a0d4752">
+  <a href="https://open.spotify.com/album/6evGYGWC69zmq7BMmC62B4?si=Az7EbaG6QWyhPYM-6CcwrA">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t17vkktpy62eylxssmcqn1okl&cover_image=true&theme=novatorem&show_offline=false&background_color=F4C2C2&interchange=true" />
   </a>
 </p>
