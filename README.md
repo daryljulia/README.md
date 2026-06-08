@@ -13,7 +13,10 @@ Computer Science Student • Aspiring Software Engineer
 
 <!--  TYPE ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&color=F4C2C2&lines=I+build+things+and+learn+by+doing;Cloud+%7C+Software+%7C+Automation;Always+improving+my+skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&color=F4C2C2&lines=Writing+fanfiction+on+AO3
+Cloud+%7C+Software+Engineering
+VFX+Editing+with+After+Effects
+Always+learning+something+new" />
 </p>
 
 ---
@@ -69,11 +72,19 @@ I enjoy turning real problems into simple software solutions.
 
 ## ⭑.ᐟ Activity
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daryljulia/README.md/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/daryljulia/README.md/output/github-contribution-grid-snake-dark.svg" alt="Snake animation](https://raw.githubusercontent.com/daryljulia/daryljulia/output/github-contribution-grid-snake.svg)" />
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daryljulia/README.md/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=daryljulia&show_icons=true&theme=default&hide_border=true&title_color=F4C2C2&icon_color=F4C2C2&text_color=888" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryljulia&layout=compact&hide_border=true&title_color=F4C2C2" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=daryljulia&hide_border=true&ring=F4C2C2&fire=F4C2C2&currStreakLabel=F4C2C2" />
 </p>
 
 ── ⋆⋅☆⋅⋆ ──
@@ -86,7 +97,7 @@ I enjoy turning real problems into simple software solutions.
 <img src="https://img.shields.io/badge/GitHub-F4C2C2?style=for-the-badge&logo=github" />
 </a>
 
-<a href="zionnhillj@gmail.com">
+<a href="mailto:zionnhillj@gmail.com">
 <img src="https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail" />
 </a>
 </p>
