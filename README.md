@@ -11,19 +11,19 @@ I'm a Computer Science student focused on software development, backend systems,
 
 I have experience working in IT support at Amazon (warehouse systems), where I support operational technology and troubleshoot real-time issues in a fast-paced environment. This experience has shaped my interest in building reliable, scalable systems and automation tools.
 
-Things I'm working on ⧽
-- Building useful apps and projects
-- Learning cloud platforms like AWS
-- Making tools that automate everyday IT tasks
-- Getting better at designing and building software
+Things I'm working on 𓍼
+› Building useful apps and projects
+› Learning cloud platforms like AWS
+› Making tools that automate everyday IT tasks
+› Getting better at designing and building software
 
-My interests ⧽
--- Building software and full-stack apps  
-- Cloud systems and automation  
-- Making everyday tech tasks simpler  
-- Video editing and VFX  
-- Creative writing  
-- Reading and learning through books 
+My interests 𓍼
+› Building software and full-stack apps  
+› Cloud systems and automation  
+› Making everyday tech tasks simpler  
+› Video editing and VFX  
+› Creative writing  
+› Reading and learning through books 
 
 
 </details>
@@ -31,25 +31,12 @@ My interests ⧽
 <details>
   <summary>Currently Learning ᯓ★</summary>
 
-- ☁️ AWS (cloud computing basics and services)
-- 🎬 After Effects (VFX & motion graphics)
-- ✍️ Creative writing and storytelling
-- 💻 Coding and software development projects
+› AWS (cloud computing basics and services)
+› After Effects (VFX & motion graphics)
+› Creative writing and storytelling
+› Coding and software development projects
 
 </details>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine" />
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently-Learning%20AWS-F4C2C2?style=for-the-badge" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/daryldadang">
