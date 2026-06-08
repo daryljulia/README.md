@@ -28,6 +28,16 @@ My interests ⧽
 
 </details>
 
+<details>
+  <summary>Currently Learning ᯓ★</summary>
+
+- ☁️ AWS (cloud computing basics and services)
+- 🎬 After Effects (VFX & motion graphics)
+- ✍️ Creative writing and storytelling
+- 💻 Coding and software development projects
+
+</details>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
 </p>
