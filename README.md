@@ -70,13 +70,12 @@ I enjoy turning real problems into simple software solutions.
 ## ⭑.ᐟ GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-Loading...-F4C2C2?style=for-the-badge" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine" />
 </p>
-
 ── ⋆⋅☆⋅⋆ ──
 
 
