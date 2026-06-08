@@ -51,4 +51,4 @@ To transition into a software engineering or cloud engineering role after gradua
 
 > “I’m interested in building systems that work in the real world, not just in theory.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=footer" />
