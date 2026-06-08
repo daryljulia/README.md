@@ -69,10 +69,7 @@ I enjoy turning real problems into simple software solutions.
 
 ## ⭑.ᐟ Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daryljulia/daryljulia/output/github-contribution-grid-snake.svg?palette=pink" />
-</p>
-
+<img src="https://raw.githubusercontent.com/daryljulia/daryljulia/output/github-contribution-grid-snake.svg" />
 ── ⋆⋅☆⋅⋆ ──
 
 
