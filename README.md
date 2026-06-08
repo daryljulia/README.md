@@ -5,11 +5,26 @@
 </p>
 
 <details>
-  <summary>📌 About me</summary>
+  <summary> About me ᯓ★</summary>
 
-I’m a Computer Science student interested in software development, cloud systems, and automation.  
+I'm a Computer Science student focused on software development, backend systems, and cloud technologies.
 
-I also enjoy video editing and creative writing.
+I have experience working in IT support at Amazon (warehouse systems), where I support operational technology and troubleshoot real-time issues in a fast-paced environment. This experience has shaped my interest in building reliable, scalable systems and automation tools.
+
+Things I'm working on ⧽
+- Building useful apps and projects
+- Learning cloud platforms like AWS
+- Making tools that automate everyday IT tasks
+- Getting better at designing and building software
+
+My interests ⧽
+-- Building software and full-stack apps  
+- Cloud systems and automation  
+- Making everyday tech tasks simpler  
+- Video editing and VFX  
+- Creative writing  
+- Reading and learning through books 
+
 
 </details>
 
@@ -27,10 +42,10 @@ I also enjoy video editing and creative writing.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR">
+  <a href="https://linkedin.com/in/daryldadang">
     <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:you@email.com">
+  <a href="dadang.daryl.j@gmail.com">
     <img src="https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -54,60 +69,14 @@ I also enjoy video editing and creative writing.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR">
+  <a href="https://linkedin.com/in/daryldadang">
     <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:you@email.com">
+  <a href="dadang.daryl.j@gmail.comm">
     <img src="https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
-
-
-I'm a Computer Science student focused on software development, backend systems, and cloud technologies.
-
-I have experience working in IT support at Amazon (warehouse systems), where I support operational technology and troubleshoot real-time issues in a fast-paced environment. This experience has shaped my interest in building reliable, scalable systems and automation tools.
-
 · · ─ ·✶· ─ · ·
-
-## Things I'm working on ⧽
-- Building useful apps and projects
-- Learning cloud platforms like AWS
-- Making tools that automate everyday IT tasks
-- Getting better at designing and building software
-
-· · ─ ·✶· ─ · ·
-
-## My interests ⧽
--- Building software and full-stack apps  
-- Cloud systems and automation  
-- Making everyday tech tasks simpler  
-- Video editing and VFX  
-- Creative writing  
-- Reading and learning through books 
-
-· · ─ ·✶· ─ · ·
-
-## 🛠️ Tech Stack (learning & using)
-- Languages: Python, JavaScript
-- Backend: Node.js / Express, FastAPI (learning)
-- Frontend: React (basic–intermediate)
-- Databases: PostgreSQL, MongoDB
-- Cloud: AWS (learning)
-
----
-
-## 📌 Current Goal
-To transition into a software engineering or cloud engineering role after graduation, building systems that solve real operational problems.
-
----
-
-## 📫 Contact
-- GitHub: [your-github]
-- LinkedIn: [your-linkedin]
-
----
-
-> “I’m interested in building systems that work in the real world, not just in theory.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=footer" />
