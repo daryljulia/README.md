@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Daryl" alt="Typing SVG" />
+</p>
+
 # Hi, I'm Daryl 👋🏽
 
 I'm a Computer Science student focused on software development, backend systems, and cloud technologies.
