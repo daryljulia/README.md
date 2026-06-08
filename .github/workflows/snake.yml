@@ -22,8 +22,8 @@ steps:
     with:
       github_user_name: daryljulia
       outputs: |
-        dist/github-contribution-grid-snake.svg?color_snake=ffd1dc&color_dots=#ebedf0,#ffe4ec,#ffc8dd,#ffafcc,#ff8fab
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffd1dc&color_dots=#161b22,#3d1f2f,#6b2945,#a03a67,#ffd1dc
+        dist/github-contribution-grid-snake.svg?color_snake=ffd1dc
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffd1dc
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
