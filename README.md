@@ -20,21 +20,33 @@ Computer Science Student • Aspiring Software Engineer
 
 ## 𑣲 About Me
 
-⟢ cs student just trying to piece things together as i go. i’m in IT support at amazon warehouse systems, so a lot of my day is troubleshooting and fixing stuff when it breaks. outside of work, i’m usually coding, editing vfx stuff in after effects, or writing fanfiction on ao3. i jump between interests a lot, but i like making things and seeing them actually work.
+<div style="display:grid; gap:10px;">
+
+⟢ cs student just trying to piece things together as i go. 
+i’m in IT support at amazon warehouse systems, so a lot of my day is troubleshooting and fixing stuff when it breaks. 
+outside of work, i’m usually coding, editing vfx stuff in after effects, or writing fanfiction on ao3. 
+i jump between interests a lot, but i like making things and seeing them actually work.
+
+</div>
 
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
 ## ⭑.ᐟ Currently Learning
+
+<div style="display:grid; gap:10px;">
 
 ⟢ AWS (cloud computing)
 ⟢ After Effects (VFX & motion design)
 ⟢ Creative writing
 ⟢ Coding & software development
 
+</div>
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
 ## ⭑.ᐟ Currently Listening To
 
+<div style="display:grid; gap:10px;">
+  
 ⟢ jazz
 ⟢ house + chill electronic stuff
 ⟢ lounge/bossa nova music when i’m working or studying
@@ -43,6 +55,7 @@ Computer Science Student • Aspiring Software Engineer
   <img src="https://img.shields.io/badge/Spotify-Listen%20with%20me-F4C2C2?style=for-the-badge&logo=spotify" />
 </a>
 
+</div>
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
 ## ⭑.ᐟ Tech Stack
@@ -71,16 +84,6 @@ Computer Science Student • Aspiring Software Engineer
 </div>
 
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
-
-## ⭑.ᐟ Fun Stuff
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daryljulia&show_icons=true&title_color=F4C2C2&icon_color=F4C2C2&text_color=999&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=daryljulia&ring=F4C2C2&fire=F4C2C2&currStreakLabel=F4C2C2&hide_border=true" />
-</p>
 
 ## ⭑.ᐟ Contact
 
