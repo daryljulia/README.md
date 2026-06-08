@@ -20,16 +20,12 @@ Computer Science Student • Aspiring Software Engineer
 
 ## 𑣲 About Me
 
-<div style="display:grid; gap:10px;">
+⟢ cs student just trying to piece things together as i go  
+⟢ i work in IT support at amazon warehouse systems, mostly fixing stuff when it breaks  
+⟢ outside of work, i’m usually coding, editing vfx in after effects, or writing fanfiction on ao3  
+⟢ i jump between interests a lot, but i like building things and seeing them work
 
-⟢ cs student just trying to piece things together as i go. 
-i’m in IT support at amazon warehouse systems, so a lot of my day is troubleshooting and fixing stuff when it breaks. 
-outside of work, i’m usually coding, editing vfx stuff in after effects, or writing fanfiction on ao3. 
-i jump between interests a lot, but i like making things and seeing them actually work.
-
-</div>
-
-˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+── ⋆⋅☆⋅⋆ ──
 
 ## ⭑.ᐟ Currently Learning
 
@@ -44,8 +40,6 @@ i jump between interests a lot, but i like making things and seeing them actuall
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
 ## ⭑.ᐟ Currently Listening To
-
-<div style="display:grid; gap:10px;">
   
 ⟢ jazz
 ⟢ house + chill electronic stuff
@@ -55,8 +49,16 @@ i jump between interests a lot, but i like making things and seeing them actuall
   <img src="https://img.shields.io/badge/Spotify-Listen%20with%20me-F4C2C2?style=for-the-badge&logo=spotify" />
 </a>
 
-</div>
-˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+⟢ now playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/t17vkktpy62eylxssmcqn1okl?si=0c7ffe301a0d4752">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t17vkktpy62eylxssmcqn1okl&cover_image=true&theme=novatorem&show_offline=false&background_color=F4C2C2&interchange=true" />
+  </a>
+</p>
+
+
+── ⋆⋅☆⋅⋆ ──
 
 ## ⭑.ᐟ Tech Stack
 
@@ -69,6 +71,10 @@ i jump between interests a lot, but i like making things and seeing them actuall
 </p>
 
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+
+## ⭑.ᐟ Fun Stuff
+
+── ⋆⋅☆⋅⋆ ──
 
 ## ⭑.ᐟ What I'm Interested In
 
@@ -97,7 +103,7 @@ i jump between interests a lot, but i like making things and seeing them actuall
   </a>
 </p>
 
-˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+── ⋆⋅☆⋅⋆ ──
 
 <!--  FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=footer" />
