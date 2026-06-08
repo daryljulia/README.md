@@ -1,8 +1,8 @@
 
-<!-- 🌊 TOP WAVE -->
+<!--  TOP WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=header" />
 
-<!-- 👋 NAME HEADER -->
+<!--  NAME HEADER -->
 <h1 align="center" style="color:#F4C2C2;">
 Hi, I'm Daryl
 </h1>
@@ -11,7 +11,7 @@ Hi, I'm Daryl
 Computer Science Student • Aspiring Software Engineer
 </p>
 
-<!-- 💬 TYPE ANIMATION -->
+<!--  TYPE ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&color=F4C2C2&lines=I+build+things+and+learn+by+doing;Cloud+%7C+Software+%7C+Automation;Always+improving+my+skills" />
 </p>
@@ -70,11 +70,11 @@ I enjoy turning real problems into simple software solutions.
 ## ⭑.ᐟ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine" />
+  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-Loading...-F4C2C2?style=for-the-badge" />
 </p>
 
 ── ⋆⋅☆⋅⋆ ──
