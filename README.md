@@ -41,23 +41,6 @@ My interests 𓍼
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/daryldadang">
-    <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="dadang.daryl.j@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F4C2C2?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F4C2C2" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-F4C2C2?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-F4C2C2?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/AWS-F4C2C2?style=for-the-badge&logo=amazonaws" />
