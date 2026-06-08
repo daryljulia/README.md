@@ -11,6 +11,10 @@ I have experience working in IT support at Amazon (warehouse systems), where I s
 
 · · ─ ·✶· ─ · ·
 
+<p align="left-centre">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=500&color=F4C2C2&lines=Hi%2C+I'm+Daryl;Computer+Science+Student;Aspiring+Software+Engineer" />
+</p>
+
 ## Things I'm working on ⧽
 - Building useful apps and projects
 - Learning cloud platforms like AWS
@@ -50,3 +54,5 @@ To transition into a software engineering or cloud engineering role after gradua
 ---
 
 > “I’m interested in building systems that work in the real world, not just in theory.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=120&section=header" />
